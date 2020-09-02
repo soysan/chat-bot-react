@@ -37,7 +37,7 @@ const FormDialog = (props) => {
                 'お問い合わせ内容: \n' + description
         }
 
-        const url = "https://hooks.slack.com/services/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";
+        const url = "Hosting Url";
 
         fetch(url, {
             method: 'POST',
